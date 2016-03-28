@@ -1,0 +1,48 @@
+c:\users\admin\documents\visual studio 2012\Projects\train\train\bin\Debug\train.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\train\train\bin\Debug\train.exe
+c:\users\admin\documents\visual studio 2012\Projects\train\train\bin\Debug\train.pdb
+c:\users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.exe
+c:\users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\train\train\obj\Debug\train.Form1.resources
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\Interop.MLApp.dll
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.csproj.ResolveComReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Debug\train.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\bin\Debug\train.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\Interop.MLApp.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\bin\Debug\train.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\bin\Debug\train.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Rtrain\train\obj\Debug\train.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\bin\Debug\train.exe.config
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\Interop.MLApp.dll
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.csproj.ResolveComReference.cache
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.exe
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.pdb
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\bin\Debug\train.exe
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\bin\Debug\train.pdb
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.Form1.resources
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.Form2.resources
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.Properties.Resources.resources
+C:\Users\Роман\Desktop\Курсач\Rtrain\train\obj\Debug\train.csproj.GenerateResource.Cache
+C:\Users\Danila\Desktop\Rtrain\train\bin\Debug\train.exe.config
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\Interop.MLApp.dll
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.csproj.ResolveComReference.cache
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.exe
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.pdb
+C:\Users\Danila\Desktop\Rtrain\train\bin\Debug\train.exe
+C:\Users\Danila\Desktop\Rtrain\train\bin\Debug\train.pdb
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.csprojResolveAssemblyReference.cache
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.Form1.resources
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.Form2.resources
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.Properties.Resources.resources
+C:\Users\Danila\Desktop\Rtrain\train\obj\Debug\train.csproj.GenerateResource.Cache

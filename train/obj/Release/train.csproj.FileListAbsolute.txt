@@ -1,0 +1,10 @@
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\bin\Release\train.exe.config
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\Interop.MLApp.dll
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.csproj.ResolveComReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\bin\Release\train.exe
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\bin\Release\train.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.Form1.resources
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.exe
+C:\Users\admin\documents\visual studio 2012\Projects\train\train\obj\Release\train.pdb
